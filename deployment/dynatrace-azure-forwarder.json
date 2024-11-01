@@ -318,6 +318,7 @@
                             "enabled": true
                         }
                     },
+			"requireInfrastructureEncryption": true,
                     "keySource": "Microsoft.Storage"
                 }
             }
