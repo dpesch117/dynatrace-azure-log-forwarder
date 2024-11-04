@@ -294,7 +294,7 @@
                 "[variables('functionSubnetId')]"
             ],
             "sku": {
-                "name": "Standard_LRS",
+                "name": "Standard_RAGRS",
                 "tier": "Standard"
             },
             "kind": "Storage",
