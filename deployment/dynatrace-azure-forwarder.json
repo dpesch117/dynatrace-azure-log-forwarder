@@ -474,7 +474,7 @@
                 "hostNamesDisabled": false,
                 "containerSize": 1536,
                 "dailyMemoryTimeQuota": 0,
-                "httpsOnly": true,
+                "httpsOnly": false,
                 "redundancyMode": "None"
             },
             "resources": [
